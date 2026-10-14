@@ -1,0 +1,1 @@
+# vscode-cosx-triage.cshproj
